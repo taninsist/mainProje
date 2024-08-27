@@ -1,3 +1,3 @@
-[submodule "utils"]
-	path = utils
+[submodule "_common"]
+	path = _common
 	url = https://github.com/taninsist/utils.git
